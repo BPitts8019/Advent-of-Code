@@ -20,11 +20,11 @@ Advent of Code is a registered trademark in the United States.
 
 | Day  | Part One | Part Two | 
 |---|:---:|:---:|
-|[:heavy_check_mark: Day 01: Completed Example](https://github.com/BPitts8019/Advent-of-Code/tree/main/day-01)  | :star: | :star: |
-|[Day 02: In Progress Example](https://github.com/BPitts8019/Advent-of-Code/tree/main/day-02)  | :clock5: In Progress | :smirk: |
-|[Day 03: TBD](https://github.com/BPitts8019/Advent-of-Code/tree/main/day-03)  | :hourglass_flowing_sand: TBD | :hourglass_flowing_sand: TBD |
-|[Day 04: TBD](https://github.com/BPitts8019/Advent-of-Code/tree/main/day-04)  | :hourglass_flowing_sand: TBD | :hourglass_flowing_sand: TBD |
-|[Day 05: TBD](https://github.com/BPitts8019/Advent-of-Code/tree/main/day-05)  | :hourglass_flowing_sand: TBD | :hourglass_flowing_sand: TBD |
+|[:heavy_check_mark: Day 01: Completed Example](https://github.com/BPitts8019/Advent-of-Code/tree/main/src/day-01)  | :star: | :star: |
+|[Day 02: In Progress Example](https://github.com/BPitts8019/Advent-of-Code/tree/main/src/day-02)  | :clock5: In Progress | :smirk: |
+|[Day 03: TBD](https://github.com/BPitts8019/Advent-of-Code/tree/main/src/day-03)  | :hourglass_flowing_sand: TBD | :hourglass_flowing_sand: TBD |
+|[Day 04: TBD](https://github.com/BPitts8019/Advent-of-Code/tree/main/src/day-04)  | :hourglass_flowing_sand: TBD | :hourglass_flowing_sand: TBD |
+|[Day 05: TBD](https://github.com/BPitts8019/Advent-of-Code/tree/main/src/day-05)  | :hourglass_flowing_sand: TBD | :hourglass_flowing_sand: TBD |
 
 ## Running Tests
 
