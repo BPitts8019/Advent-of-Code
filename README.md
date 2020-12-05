@@ -1,4 +1,4 @@
-# Advent of Code 2019
+# Advent of Code [Current Year]
 
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
@@ -13,7 +13,7 @@ If you'd like to support Advent of Code, you can do so indirectly by helping to 
 
 Advent of Code is a registered trademark in the United States.
 
-## Advent of Code <Current Year> Story
+## Advent of Code [Current Year] Story
 *Add the story for the current year here*
 
 ## Progress
